@@ -1,0 +1,19 @@
+{
+    "producto":[
+        {
+            "Id": 1,
+            "Usuario": "Riquelme",
+            "Contraseña": "12345"
+        },
+        {
+            "Id": 2,
+            "Usuario": "Rumaldo",
+            "Contraseña": "54321"
+        },
+        {
+            "Id": 3,
+            "Usuario": "Valdivia",
+            "Contraseña": "987654"
+        }
+    ]
+}
